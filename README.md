@@ -24,7 +24,7 @@ sudo apt install python3.10-venv
    ```
 3. Navigate to the project directory:
    ```bash
-   cd claude-gui-interaction
+   cd anthropic_gui
    ```
 
 ### Step 2: Configure the Python Environment
@@ -57,7 +57,7 @@ sudo apt install python3.10-venv
 1. Open a new terminal window.
 2. Navigate to the project directory:
    ```bash
-   cd claude-gui-interaction
+   cd anthropic_gui
    ```
 3. Activate the virtual environment (same as Step 2):
    - On macOS/Linux:
